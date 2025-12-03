@@ -1,0 +1,67 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+build/
+develop-eggs/
+dist/
+downloads/
+eggs/
+.eggs/
+lib/
+lib64/
+parts/
+sdist/
+var/
+wheels/
+*.egg-info/
+.installed.cfg
+*.egg
+
+# Virtual Environment
+venv/
+env/
+ENV/
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Model files (large files)
+*.h5
+*.pkl
+saved_models/
+*.model
+
+# Generated plots and images
+*.png
+*.jpg
+*.jpeg
+
+# Logs
+*.log
+
+# Jupyter Notebook
+.ipynb_checkpoints
+
+# Audio files (optional - comment out if you want to include sample audio)
+# *.wav
+# *.mp3
+# *.flac
+
+# Large datasets (keep structure but exclude files)
+audio_dataset/**/*.wav
+audio_dataset/**/*.mp3
+audio_dataset/**/*.flac
+
+# Keep directory structure
+!audio_dataset/*/
+!audio_dataset/*/.gitkeep
