@@ -1,0 +1,196 @@
+text,label
+"Massive flooding submerges entire neighborhoods",Flood
+"River overflows causing widespread evacuation",Flood
+"Flash flood sweeps away cars and debris",Flood
+"Urban areas underwater after storm surge",Flood
+"Levee breach floods agricultural lands",Flood
+"Monsoon rains trigger severe flooding",Flood
+"Coastal flooding from high tide surge",Flood
+"Basement flooding traps residents inside",Flood
+"Storm drains overflow flooding streets",Flood
+"Floodwaters contaminate drinking water supply",Flood
+"Emergency shelters opened for flood victims",Flood
+"Rescue helicopters airlift stranded families",Flood
+"Flood damage estimated in millions",Flood
+"Sandbags deployed to prevent flooding",Flood
+"River crests above flood stage",Flood
+"Wildfire burns thousands of acres",Fire
+"Forest blaze threatens mountain communities",Fire
+"Arson suspected in warehouse fire",Fire
+"Gas explosion triggers massive fire",Fire
+"Apartment building engulfed in flames",Fire
+"Brush fire spreads due to wind",Fire
+"Chemical plant fire forces evacuation",Fire
+"Campfire sparks forest fire outbreak",Fire
+"Lightning strike causes barn fire",Fire
+"Oil refinery fire burns for hours",Fire
+"Firefighters contain residential blaze",Fire
+"Smoke inhalation hospitalizes residents",Fire
+"Fire department battles three-alarm fire",Fire
+"Evacuation orders due to approaching fire",Fire
+"Fire suppression aircraft deployed",Fire
+"Powerful earthquake rocks the region",Earthquake
+"Seismic waves cause building collapse",Earthquake
+"Tremors felt across multiple states",Earthquake
+"Earthquake triggers landslide activity",Earthquake
+"Fault line rupture causes ground shift",Earthquake
+"Aftershock sequence continues for days",Earthquake
+"Earthquake early warning system activated",Earthquake
+"Structural damage from seismic activity",Earthquake
+"Earthquake swarm detected by sensors",Earthquake
+"Tectonic plates shift causing quake",Earthquake
+"Emergency response teams mobilized",Earthquake
+"Earthquake preparedness drills conducted",Earthquake
+"Seismologists monitor ongoing activity",Earthquake
+"Infrastructure assessment after earthquake",Earthquake
+"Search and rescue operations underway",Earthquake
+"Hurricane makes direct landfall",Hurricane
+"Category 5 storm approaches coast",Hurricane
+"Tropical storm intensifies to hurricane",Hurricane
+"Storm surge threatens coastal areas",Hurricane
+"Hurricane eye wall passes overhead",Hurricane
+"Sustained winds exceed 120 mph",Hurricane
+"Evacuation mandatory for coastal zones",Hurricane
+"Hurricane spawns multiple tornadoes",Hurricane
+"Storm track shifts toward populated areas",Hurricane
+"Hurricane weakens over land",Hurricane
+"Power grid fails during hurricane",Hurricane
+"Emergency generators provide backup power",Hurricane
+"Hurricane season peaks in September",Hurricane
+"Storm shelter capacity reaches limit",Hurricane
+"Hurricane damage assessment begins",Hurricane
+"Rockslide blocks mountain highway",Landslide
+"Mudflow destroys hillside homes",Landslide
+"Slope failure after heavy rainfall",Landslide
+"Debris avalanche threatens valley",Landslide
+"Unstable cliff face collapses",Landslide
+"Landslide dam creates flood risk",Landslide
+"Geological survey identifies risk areas",Landslide
+"Retaining wall fails causing slide",Landslide
+"Construction activity triggers landslide",Landslide
+"Landslide warning issued for region",Landslide
+"Evacuation due to slope instability",Landslide
+"Emergency crews clear landslide debris",Landslide
+"Geotechnical analysis of slide area",Landslide
+"Landslide monitoring equipment installed",Landslide
+"Slope stabilization project planned",Landslide
+"Head-on collision on interstate",Accident
+"Multi-car pileup in dense fog",Accident
+"School bus accident injures children",Accident
+"Motorcycle crash on wet pavement",Accident
+"Truck jackknifes blocking traffic",Accident
+"Bridge collapse traps vehicles",Accident
+"Construction crane topples over",Accident
+"Industrial accident at factory",Accident
+"Chemical spill from overturned tanker",Accident
+"Airplane crash at regional airport",Accident
+"Train collision at rail crossing",Accident
+"Boat capsizes in rough waters",Accident
+"Scaffolding collapse at worksite",Accident
+"Gas leak explosion damages homes",Accident
+"Equipment malfunction causes injury",Accident
+"Severe drought affects crop yields",Drought
+"Water rationing implemented statewide",Drought
+"Livestock dying from water shortage",Drought
+"Wells run dry in farming communities",Drought
+"Irrigation systems fail completely",Drought
+"Desert conditions spread inland",Drought
+"Emergency water deliveries organized",Drought
+"Agricultural losses mount daily",Drought
+"Reservoir levels drop critically low",Drought
+"Drought emergency declared officially",Drought
+"Water conservation measures mandatory",Drought
+"Farmers abandon drought-stricken fields",Drought
+"Wildfire risk increases during drought",Drought
+"Economic impact of prolonged drought",Drought
+"Climate change worsens drought conditions",Drought
+"Tsunami warning sirens sound",Tsunami
+"Seismic sea wave approaches shore",Tsunami
+"Coastal evacuation orders issued",Tsunami
+"Tsunami debris washes inland",Tsunami
+"Harbor facilities destroyed completely",Tsunami
+"Tsunami height exceeds seawalls",Tsunami
+"Pacific-wide tsunami alert activated",Tsunami
+"Underwater earthquake generates tsunami",Tsunami
+"Tsunami travel time calculated",Tsunami
+"Coastal communities prepare for impact",Tsunami
+"Tsunami education saves lives",Tsunami
+"Early warning system prevents casualties",Tsunami
+"Tsunami research improves predictions",Tsunami
+"International tsunami monitoring network",Tsunami
+"Tsunami recovery efforts begin",Tsunami
+"Volcanic eruption threatens nearby towns",Volcano
+"Lava flow destroys residential areas",Volcano
+"Ash cloud disrupts air travel",Volcano
+"Pyroclastic flow races down slope",Volcano
+"Volcanic gases pose health risks",Volcano
+"Evacuation zone expanded around volcano",Volcano
+"Seismic activity increases at volcano",Volcano
+"Volcanic ash falls on city",Volcano
+"Lava bombs damage buildings",Volcano
+"Volcanic mudflow threatens valley",Volcano
+"Scientists monitor volcanic activity",Volcano
+"Volcanic alert level raised",Volcano
+"Emergency shelters for volcano evacuees",Volcano
+"Volcanic winter affects global climate",Volcano
+"Volcano observatory issues warnings",Volcano
+"Tornado touches down in suburb",Tornado
+"Funnel cloud spotted approaching",Tornado
+"Tornado alley experiences outbreak",Tornado
+"Mobile home park devastated",Tornado
+"Tornado warning sirens activated",Tornado
+"Storm chasers track tornado path",Tornado
+"EF5 tornado causes total destruction",Tornado
+"Tornado season peaks in spring",Tornado
+"Supercell thunderstorm spawns tornado",Tornado
+"Tornado emergency declared for county",Tornado
+"Storm shelter saves family",Tornado
+"Tornado debris field spans miles",Tornado
+"Doppler radar detects rotation",Tornado
+"Tornado preparedness saves lives",Tornado
+"Multiple tornadoes reported statewide",Tornado
+"Blizzard conditions shut down city",Blizzard
+"Heavy snow accumulation expected",Blizzard
+"Whiteout conditions on highways",Blizzard
+"Snow emergency declared locally",Blizzard
+"Blizzard warning issued overnight",Blizzard
+"Power outages from ice storm",Blizzard
+"Snow plows work around clock",Blizzard
+"Airport cancels all flights",Blizzard
+"Schools closed due to blizzard",Blizzard
+"Emergency heating shelters opened",Blizzard
+"Hypothermia cases increase dramatically",Blizzard
+"Snow drifts block major roads",Blizzard
+"Blizzard breaks snowfall records",Blizzard
+"Winter storm moves eastward",Blizzard
+"Cold snap follows blizzard",Blizzard
+"Hailstorm damages crops severely",Hailstorm
+"Golf ball sized hail reported",Hailstorm
+"Hail strips leaves from trees",Hailstorm
+"Vehicle windshields shattered by hail",Hailstorm
+"Hailstorm insurance claims skyrocket",Hailstorm
+"Supercell produces giant hailstones",Hailstorm
+"Hail accumulation blocks drains",Hailstorm
+"Greenhouse destroyed by hailstorm",Hailstorm
+"Hail damage assessment underway",Hailstorm
+"Record-breaking hailstone measured",Hailstorm
+"Hailstorm warning issued urgently",Hailstorm
+"Softball-sized hail injures people",Hailstorm
+"Hail suppression technology tested",Hailstorm
+"Agricultural losses from hailstorm",Hailstorm
+"Hailstorm cleanup efforts begin",Hailstorm
+"Beautiful sunset over mountains",None
+"Coffee shop opens early today",None
+"New restaurant receives great reviews",None
+"Weekend farmers market busy",None
+"Library hosts reading program",None
+"Local team wins championship",None
+"Art gallery features new exhibition",None
+"Community garden project launched",None
+"Music festival draws large crowds",None
+"Technology conference next week",None
+"University announces new program",None
+"Park renovation project completed",None
+"Local business celebrates anniversary",None
+"Charity fundraiser exceeds goal",None
+"Weather forecast calls for sunshine",None

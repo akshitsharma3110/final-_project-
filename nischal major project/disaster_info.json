@@ -1,0 +1,114 @@
+{
+  "biological and chemical pandemic": {
+    "helpline": "1075 (National Health Helpline)",
+    "prevention_measures": [
+      "Maintain proper hygiene and sanitation",
+      "Follow vaccination schedules recommended by health authorities",
+      "Use personal protective equipment (PPE) when necessary",
+      "Practice respiratory etiquette (cover mouth while coughing/sneezing)",
+      "Avoid contact with infected individuals",
+      "Keep living spaces clean and well-ventilated",
+      "Follow quarantine guidelines if exposed",
+      "Report suspicious symptoms to health authorities immediately"
+    ],
+    "image_keywords": ["pandemic", "health", "safety", "medical"]
+  },
+  "cyclone": {
+    "helpline": "1070 (Disaster Management Helpline)",
+    "prevention_measures": [
+      "Secure loose objects and outdoor items",
+      "Trim tree branches near buildings",
+      "Reinforce doors and windows",
+      "Stock emergency supplies (water, food, medicines)",
+      "Have an evacuation plan ready",
+      "Monitor weather forecasts regularly",
+      "Move to designated cyclone shelters when warned",
+      "Keep important documents in waterproof containers"
+    ],
+    "image_keywords": ["cyclone", "storm", "wind", "disaster"]
+  },
+  "drought": {
+    "helpline": "1800-180-1111 (Agricultural Helpline)",
+    "prevention_measures": [
+      "Practice water conservation and rainwater harvesting",
+      "Use drought-resistant crop varieties",
+      "Implement efficient irrigation systems",
+      "Maintain soil moisture through mulching",
+      "Reduce water usage in daily activities",
+      "Plant trees to improve water retention",
+      "Support sustainable farming practices",
+      "Store water during rainy seasons"
+    ],
+    "image_keywords": ["drought", "dry", "water", "agriculture"]
+  },
+  "earthquake": {
+    "helpline": "1070 (Disaster Management Helpline)",
+    "prevention_measures": [
+      "Secure heavy furniture to walls",
+      "Identify safe spots in each room (under tables, against walls)",
+      "Practice 'Drop, Cover, Hold On' technique",
+      "Keep emergency kit with first aid supplies",
+      "Know how to turn off gas and electricity",
+      "Participate in earthquake drills",
+      "Reinforce building structure if in seismic zone",
+      "Keep footwear and flashlight near bed"
+    ],
+    "image_keywords": ["earthquake", "seismic", "disaster", "building"]
+  },
+  "flood": {
+    "helpline": "1070 (Disaster Management Helpline)",
+    "prevention_measures": [
+      "Avoid building in flood-prone areas",
+      "Maintain drainage systems regularly",
+      "Install flood barriers and sandbags",
+      "Keep emergency supplies on upper floors",
+      "Know evacuation routes in advance",
+      "Monitor weather and water level alerts",
+      "Move to higher ground when warned",
+      "Keep important documents in waterproof bags"
+    ],
+    "image_keywords": ["flood", "water", "rain", "disaster"]
+  },
+  "landslide": {
+    "helpline": "1070 (Disaster Management Helpline)",
+    "prevention_measures": [
+      "Avoid construction on steep slopes",
+      "Maintain proper drainage on hillsides",
+      "Plant vegetation to stabilize soil",
+      "Monitor cracks in buildings and ground",
+      "Avoid deforestation in hilly areas",
+      "Install retaining walls where needed",
+      "Evacuate immediately if warning signs appear",
+      "Report unstable slopes to authorities"
+    ],
+    "image_keywords": ["landslide", "slope", "mountain", "disaster"]
+  },
+  "tsunami": {
+    "helpline": "1070 (Disaster Management Helpline)",
+    "prevention_measures": [
+      "Know tsunami warning signs (unusual ocean behavior)",
+      "Have evacuation plan for coastal areas",
+      "Move to higher ground immediately after earthquake",
+      "Don't return to coast until all-clear is given",
+      "Keep emergency supplies in accessible location",
+      "Know location of tsunami shelters",
+      "Listen to official warnings and alerts",
+      "Avoid coastal areas during seismic activity"
+    ],
+    "image_keywords": ["tsunami", "wave", "ocean", "coastal"]
+  },
+  "wildfire": {
+    "helpline": "1070 (Disaster Management Helpline)",
+    "prevention_measures": [
+      "Clear dead vegetation and leaves from property",
+      "Maintain distance between trees and buildings",
+      "Use fire-resistant roofing materials",
+      "Keep gutters clean and free of debris",
+      "Have evacuation plan and emergency kit ready",
+      "Monitor fire weather alerts",
+      "Avoid outdoor burning during dry seasons",
+      "Create defensible space around homes"
+    ],
+    "image_keywords": ["wildfire", "fire", "smoke", "disaster"]
+  }
+}

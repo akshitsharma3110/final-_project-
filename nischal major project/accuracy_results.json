@@ -1,0 +1,16 @@
+{
+    "overall_accuracy": 0.9543057996485061,
+    "precision": 0.9551272355915271,
+    "recall": 0.9543057996485061,
+    "f1_score": 0.9542176351895595,
+    "per_class_accuracy": {
+        "biological and chemical pandemic": 0.9830508474576272,
+        "cyclone": 0.93,
+        "drought": 1.0,
+        "earthquake": 0.9183673469387755,
+        "flood": 0.974025974025974,
+        "landslide": 0.8955223880597015,
+        "tsunami": 0.9,
+        "wildfire": 1.0
+    }
+}
